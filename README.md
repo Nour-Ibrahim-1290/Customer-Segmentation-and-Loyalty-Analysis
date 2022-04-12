@@ -1,8 +1,12 @@
 # Sprocket-Central-Pty-Ltd-Company-Customer-Recommendation_Project
 ### KPMG Virtual Internship
 
+![KPMG](https://connect-assets.prosple.com/cdn/ff/8MHef1iffFwxem8U9xiS_CE16i_5XbBK1Skw1VhlDsc/1578902605/public/styles/scale_and_crop_center_890x320/public/2020-01/Banner-KPMG-890x320-2020.png?itok=P-1TF_7I)
+
 ## About the Dataset
 **Sprocket Central Pty Ltd**, a medium-size bikes & cycling accessories organization has a large dataset relating to its customers, but its team is unsure how to effectively analyze it to help optimize its marketing strategy.
+
+![Sprocket](https://github.com/Nour-Ibrahim-1290/Sprocket-Central-Pty-Ltd-Company-Customer-Recommendation-Project-KPMG-Virtual-Internship/blob/main/Notebooks/sprocket_central.png?raw=true)
 
 ### The client provided us with 3 datasets:
 1. Customer Demographic
