@@ -46,4 +46,23 @@ The objective of this phase is to offer recommendation system to the client for 
   CSV file: dataset output of Phase#1.
 #### Output: 
   CSV file: dataset with the modified original and merged with RFM Analysis Results.
+  
+  ## In Phase #3: Data Modeling using Machine Learning Classifiers:
+1. Data wrangling and Cleaning (little bit) of the output dataset of Phase#2.
+2. Data Wrangling and Cleaning of new Customer List dataset.
+3. Split Training of Training dataset on DecisionTree Classifier and RandomForest Classifier. 
+4. Choosing the RandomForest Classifying Model (has higher aqquracy report).
+6. Predict New Customers' Loyalty Segments based on the choosen Model.
+7. Export a CSV File with the resulted dataset.
+#### Input: 
+  CSV file: dataset output of Phase#2.
+#### Output: 
+  CSV file: dataset the new Potential Customer List and their recommendations concerning predicted Loyalty segment.
+ 
+ ## Presented to the Client:
+ 1. Data Isights and Modeling report to get the approval on the Modeling techniques.
+     [Report](https://drive.google.com/file/d/1tcC_LS6Ci3GF5tYYrRlQkJk__yNCzyp8/view?usp=sharing)
+ 3. Tableau Dashboard to allow the discovey of Trends and easier discussion on Marketing Strategy Development.
+     [Dashboard](https://public.tableau.com/app/profile/nour.ibrahim/viz/CustomerRecommendationsDashboard/CustomerRecommendations#1)
+     [Report](https://docs.google.com/presentation/d/1mMOoGGWOURUfubqzb50PccwW7wlZ8DY8/edit?usp=sharing&ouid=111903645358936706507&rtpof=true&sd=true)
 
