@@ -16,7 +16,7 @@
 ## Objective of the report
 The objective of this phase is to offer recommendation system to the client for which customers to target?
 
-## In Phase #1: Improve the quality of Sprocket Central Pty Ltd’s data through:
+## In [Phase #1](https://github.com/Nour-Ibrahim-1290/Sprocket-Central-Pty-Ltd-Company-Customer-Recommendation-Project-KPMG-Virtual-Internship/blob/main/Notebooks/Sprocket%20Central%20Pty%20Ltd%20Company%20Customers%20Recommendation%20Project%20Phase%20%231%20Data%20wrangling.ipynb): Improve the quality of Sprocket Central Pty Ltd’s data through:
 * Data wrangling and Cleaning
 * Features engineering
 * Joinning the datasets together
@@ -35,7 +35,7 @@ The objective of this phase is to offer recommendation system to the client for 
   CSV file with clean joined Transactions and customer information data after Wrangling, Cleaning and Merging all three datasets.
   
   
-## In Phase #2: Exploring the relations inside the Sprocket Central Pty Ltd’s merged dataset:
+## In [Phase #2](https://github.com/Nour-Ibrahim-1290/Sprocket-Central-Pty-Ltd-Company-Customer-Recommendation-Project-KPMG-Virtual-Internship/blob/main/Notebooks/Sprocket%20Central%20Pty%20Ltd%20Company%20Customers%20Recommendation%20Project%20Phase%20%232%20EDA%20%26%20RFM_Analysis.ipynb): Exploring the relations inside the Sprocket Central Pty Ltd’s merged dataset:
 1. Data wrangling and Cleaning (little bit)
 2. Univariant Exploration
 3. Features engineering
@@ -47,7 +47,7 @@ The objective of this phase is to offer recommendation system to the client for 
 #### Output: 
   CSV file: dataset with the modified original and merged with RFM Analysis Results.
   
-  ## In Phase #3: Data Modeling using Machine Learning Classifiers:
+  ## In [Phase #3](https://github.com/Nour-Ibrahim-1290/Sprocket-Central-Pty-Ltd-Company-Customer-Recommendation-Project-KPMG-Virtual-Internship/blob/main/Notebooks/Sprocket%20Central%20Pty%20Ltd%20Company%20Customers%20Recommendation%20Project%20Phase%20%233%20Data%20Modeling.ipynb): Data Modeling using Machine Learning Classifiers:
 1. Data wrangling and Cleaning (little bit) of the output dataset of Phase#2.
 2. Data Wrangling and Cleaning of new Customer List dataset.
 3. Split Training of Training dataset on DecisionTree Classifier and RandomForest Classifier. 
